@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="shortcut icon" type="image/x-icon" href="images/Cle_de_sol_modif.png" />
+    	<title>Cours</title>
+    	<meta charset="utf-8">
+    	<link rel="stylesheet" type="text/css" href="coursA.css">
+    </head>
+    
+    <body>
+		<div id="entete-centre" class="centrer">
+			<div id="logo">
+				<a href="accueil.html">
+ 		   			<img src="images/Logo officiel Pavion Musical (clé de fa changé)-2.png" alt="Logo-de-la-page"/>
+ 		   		</a>
+				<h1 id="titre" > | Le Pavillon Musical | </h1>
+    		</div>
+
+			<a href="https://fr-fr.facebook.com/"><img class="rs" src="images/fb.png" alt="fb"/></a>     
+			<a href="http://instagram.com/#"><img class="rs" src="images/insta.png" alt="insta"/></a>
+			<a href="https://twitter.com/?lang=fr"><img class="rs" src="images/twi.png" alt="twi"/></a>
+			<a href="https://www.youtube.com/?hl=fr&gl=FR"><img class="rs" src="images/yt.png" alt="yt"/></a>
+			<a href="https://fr.linkedin.com/"><img class="rs" src="images/in.jpg" alt="in"/></a>
+ 	 
+			</br>
+			</br>
+			
+			<nav id="menu">
+				<img src="images/wallpapercours.jpg" alt="wallpapercours"/>
+		  		<ul>
+					<li><a id="accueil" href="accueilA.html">Accueil</a></li>
+					<li><a id="cours" href="coursA.html">Cours</a></li>
+					<li><a id="concert" href="concertA.html">Concert</a></li>
+					<li><a id="actualites" href="actualitesA.html">Actualités</a></li>
+					<li><a id="etudiant" href="etudiantA.html">Etudiant</a></li>
+					<li><a id="renseignement" href="renseignementA.html">Renseignement</a></li>
+					<li><a id="accessibilite" href="accueil.html">Site initial</a></li>
+				</ul>
+			</nav>
+		
+	      	<ul id="langue">
+				<li><a href="accueilAenglish.html">English</a></li> 
+	   		</ul>
+	   		
+	   		<div id="illustration-haut">
+				<main id="principal">
+					<p id="chemin"><a href = "accueilA.html">Accueil</a> >> <a href = "coursA.html">Cours</a></p>
+
+					<br/> 
+
+					<header class="entete"><h1>Inscriptions</h1></header>
+					<hr style="width:660px; color:black; background-color:black; height:5px;" />
+
+ 						<p> <strong> Trois types d'enseignements : </strong> </p>
+ 							<ul>
+ 								<li> La formation musicale </li>
+ 								<li> Les cours individuels </li>
+ 								<li> Les pratiques collectives </li> 
+ 							</ul>
+ 						<p> <a href="formulairedinscription.pdf">Formulaire d'inscription</a> </p>
+ 						
+ 						<p> <strong> Frais d'inscription selon le quotient familial : </strong> </p>
+ 						<p> Prise en charge des frais pour les élèves inscrits en CHAM. </p>
+						<p> Pour calculer votre QF, un <a href = "http://www.conservatoire.rennes.fr/fileadmin/user_upload/crr/calcultarifs/calcul.php">simulateur</a> est disponible. </p>
+						<p> <a href = "fraisdinscription.pdf">Fiche des frais d'inscription</a> </p>
+						
+						<p> <strong> Changement de discipline : </strong> </p>
+						<p> Attention : tout changement de discipline vaut abandon de la discipline préalablement suivie. </p>
+						<p> <a href = "chgmtdiscipline.pdf">Formulaire de demande de changement de discipline </a> </p>
+
+					<br/>
+
+					<header class="entete"><h1>Règlement</h1></header>
+					<hr style="width:660px; color:black; background-color:black; height:5px;" />
+  
+						<p> <strong> Modalités de la vie au sein du Pavillon Musical : </strong> </p>
+						<p>	<a href = "reglement.pdf">Règlement général</a> du Pavillon Musical d'Avignon. </p>
+
+					<br/>
+
+				  	<header class="entete"><h1>Etudes</h1></header>
+				  	<hr style="width:660px; color:black; background-color:black; height:5px;" />
+
+						<p> <strong> Différents niveaux : </strong> </p>
+							<ul>
+								<li class = "niveau"><a href="courspremiercycleA.html">Eveil musical - Premier cycle</a></li>
+								<li class = "niveau"><a href="coursdeuxiemecycleA.html">Deuxième cycle</a></li>
+								<li class = "niveau"><a href="courstroisiemecycleA.html">Troisième cycle</a></li>
+							</ul>	
+			    		<p> <strong> Stages proposés : </strong> </p>
+						<p> Les stages disponibles en ce moment sont les suivants : </p>
+							<ul>
+								<li class = "niveau"><a href="http://www.citedelamusique.fr/francais/annonces/detail_annonce.aspx?id=132780">Musiques actuelles & jazz</a> : 1 semaine de musique en immersion à temps plein dans un châlet du Queyras, pour apprendre et progresser en s'amusant.</li>
+								<li class = "niveau"><a href="http://www.citedelamusique.fr/francais/annonces/detail_annonce.aspx?id=132817">Stage de chant polyphonique jazz bossa</a> : à PEZENAS (34), samedi 31 janvier et dimanche 1er février 2015.</li>
+							</ul>
+						<p> <strong> Essais de cours gratuits possibles : </strong> </p>
+						<p> Veuillez nous prévenir en nous <a href="renseignement.html">contactant</a>.</p>
+
+				</main>
+			</div>
+	
+	
+			<aside>
+				<object width="150" height="198"><param name="allowscriptaccess" value="always" /><param name="movie" value="http://static.radionomy.com/cdn/flash/BannerEmbed.swf?RadUID=ad5c7269-80dd-4a36-a3d3-50063efe3d88&amp;titlesColor=ffffff&amp;color=ff0000&amp;autoPlay=yes&amp;lang=en" /><param name="wmode" value="transparent" /><embed src="http://static.radionomy.com/cdn/flash/BannerEmbed.swf?RadUID=ad5c7269-80dd-4a36-a3d3-50063efe3d88&amp;titlesColor=ffffff&amp;color=ff0000&amp;autoPlay=yes&amp;lang=en" wmode="transparent" type="application/x-shockwave-flash" allowscriptaccess="always" width="150" height="198"></embed></object>
+			</aside>
+			
+		</div>
+	</body>
+
+	<footer id="bas-de-page">
+		<p>
+			<span>Contact : <a href = "https://gmail.com">contact@pavillonmusical.fr</a></span>
+			<span><a href = "plandusite.html">Plan du site</a></span>
+			<span><a href = "partenaires.html">Partenaires</a></span>
+			<span><a href = "mentionslegales.html">Mentions légales</a></span>
+			<span>Copyright © pavillonmusicaldavignon.org - 2015</span>
+			<span><a href = "coursA.html">Retour en haut</a></span>
+		</p>
+	</footer>  
+</html>

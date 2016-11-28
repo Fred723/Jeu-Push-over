@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Information</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="renseignement.css">
+	</head>
+	
+	<body>
+
+		<div id="entete-centre" class="centrer">
+			<div id="logo">
+				<a href="accueil.html">
+ 		   			<img src="images/Logo officiel Pavion Musical (clé de fa changé)-2.png" alt="Logo-de-la-page"/>
+ 		   		</a>
+				<h1 id="titre" > | Le Pavillon Musical | </h1>
+			</div>
+    
+			<a href="https://fr-fr.facebook.com/"><img class="rs" src="images/fb.png" alt="fb"/></a>     
+			<a href="http://instagram.com/#"><img class="rs" src="images/insta.png" alt="insta"/></a>
+			<a href="https://twitter.com/?lang=fr"><img class="rs" src="images/twi.png" alt="twi"/></a>
+			<a href="https://www.youtube.com/?hl=fr&gl=FR"><img class="rs" src="images/yt.png" alt="yt"/></a>
+			<a href="https://fr.linkedin.com/"><img class="rs" src="images/in.jpg" alt="in"/></a>
+				 	 
+			</br>
+			</br>
+			
+			<nav id="menu">
+				<img src="images/apr.jpg" alt="apr"/>
+				<ul>
+					<li><a id="accueil" href="accueilAnglais.html">Welcome</a></li>
+					<li><a id="accessibilite" href="accueilA.html">Accessibility</a></li>
+					<li><a id="cours" href="coursAnglais.html">Lessons</a></li>
+					<li><a id="concert" href="concertAnglais.html">Concert</a></li>
+					<li><a id="actualites" href="actualites.html">Events</a></li>
+					<li><a id="etudiant" href="etudiantAnglais.html">Student</a></li>
+					<li><a id="renseignement" href="renseignementAnglais.html">Information</a></li>      
+				</ul>
+			</nav>
+			
+			<ul id="langue">
+				<li><a href="accueil.html"><img src="images/frc.png" alt="frc" /></a></li>
+			</ul>
+	
+			<div id="illustration-haut">
+				<main id="principal">
+					<p id="chemin"><a href="accueilAnglais.html">Welcome</a> >> <a href="renseignementAnglais.html"> Information</a></p>
+ 
+					<h1 class="entete">Who are we ?</h1>
+					<hr style="width:660px; color:black; background-color:black; height:5px;" /> 
+					
+					<br/>
+					
+					<p><strong>Name :</strong> Le Pavillon Musical</p>
+					
+					<br/>
+					<br/>
+					<br/>
+					
+					<p><strong>Address :</strong> 6 avenue des Italiens, 84000 Avignon</p>
+					
+					<br/>
+					<br/>
+					<br/>
+					
+					<p><strong>Professors : </strong></p>
+					
+					<table>
+						<tr><th>Musical awakening</th><th>First degree</th><th>Second degree</th><th>Third degree</th></tr>
+						<tr> <td>Mrs. Azerty</td><td>Mrs. Ghuijk</td><td>Mrs. Bhujki</td><td>Mrs. Bhujki</td></tr> 
+						<tr> <td>Mr. Uiop</td><td>Mrs. Serty</td><td>Mrs. Molik</td><td>Mrs. Poijy</td></tr> 
+						<tr> <td></td> <td>Mrs. Thuji</td><td>Mr. Sazed</td><td>Mr. Zerfty</td></tr> 
+						<tr> <td></td> <td>Mr. Likom</td><td>Mr. Tredsa</td> <td>Mr. Huygh</td></tr> 
+						<tr> <td></td> <td>Mr. Tredsa</td><td></td><td>Mr. Tyghui</td></tr> 
+					</table>
+
+					<br/>
+					<br/>
+					<br/>
+
+					<p><strong>Historical : </strong></p>
+					<p>In 1986 we conducted a demonstration of the choir " Music Hall " in the bandstand in the garden of Ranelagh in Avignon . Responsible for the Parks and Gardens of the city asked us to see and hear the prototype and despite a questionable version of a piece of Brahms , the test was successful. We were going to present the " Music Pavilion " for 7 years in 21 booths in the capital. This was the real starting point of our educational development. The first installation consisted of a grid 16 boxes that allow the public to play the music of our composition and works of the repertoire that we have specially adapted .
+The computerized control room was housed in the basement of the kiosk. The video camera that enabled interactivity was suspended , and the speakers above the space at the booth bulb center. A programmable clock put the system on a daily basis. No monitoring was necessary and the kiosk could still be used for orcherstres and brass bands.
+The sounds were produced by an integrated card to the Apple II .</p>
+
+					</br>
+					</br>
+
+
+					<h1 class="entete">Contact Us</h1>
+					<hr style="width:660px; color:black; background-color:black; height:5px;" /> 
+					
+					<br/>
+					
+					<p><strong>Phone :</strong> <p>01 23 45 67 89<p/>
+					<p>06 95 87 21 43<p/>
+					
+					</br>
+
+					<p><strong>Fax : </strong></p>
+					<p>08 11 46 00 99<p/>
+					
+					</br>
+
+					<p><strong>FAQ :</strong> <a href="...">Link for forums<a/>.</p>
+					
+					</br>
+
+					<p><strong>Mail :</strong><a href="https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1"> contact@pavillonmusical.fr<a/></p>
+
+					</br>
+					</br>
+
+					<h1 class="entete">Find Us</h1>
+					<hr style="width:660px; color:black; background-color:black; height:5px;" /> 
+					
+					<br/>
+
+					<p><strong>Schedule :</strong></p>
+					<p>Tuesday from 16pm to 19pm.<p/>
+					<p>Wednesday from 10am to 12pm and 14pm to 18pm.<p/>
+					<p>Friday from 14h to 18h.<p/>
+					<p>Saturday from 10h to 13h and 14h to 18h.<p/>
+					
+					<br/>
+					
+					<p><strong>Localization of Pavillon Musical :</strong></p>
+		
+					<a href="avignon.jpg"> <img id="illustration" src="images/avignon.jpg" alt="avignon"/> </a>
+					
+					</br>
+					</br>
+					
+					How to come <a href="http://www.tcra.fr/">by transport</a> ?
+					
+					</br>
+					</br>
+					
+					<p><strong>Floor Plan :</strong></p>
+					
+					<a href="planpavillon.jpg"> <img id="illustration" src="images/planpavillon.jpg" alt="planpavillon"/> </a>
+
+				</main>
+					</div>
+		
+<aside>
+		
+<object width="150" height="198"><param name="allowscriptaccess" value="always" /><param name="movie" value="http://static.radionomy.com/cdn/flash/BannerEmbed.swf?RadUID=ad5c7269-80dd-4a36-a3d3-50063efe3d88&amp;titlesColor=ffffff&amp;color=ff0000&amp;autoPlay=yes&amp;lang=en" /><param name="wmode" value="transparent" /><embed src="http://static.radionomy.com/cdn/flash/BannerEmbed.swf?RadUID=ad5c7269-80dd-4a36-a3d3-50063efe3d88&amp;titlesColor=ffffff&amp;color=ff0000&amp;autoPlay=yes&amp;lang=en" wmode="transparent" type="application/x-shockwave-flash" allowscriptaccess="always" width="150" height="198"></embed></object>
+			
+			</aside>
+		</div>
+		
+	</body>
+
+	<footer id="bas-de-page">
+		<p>
+			<span>Contact us : <a href = "https://gmail.com">contact@pavillonmusical.fr</a></span>
+			<span><a href = "plandusite.html">Site map</a></span>
+			<span><a href = "partenairesAnglais.html">Partner websites</a></span>
+			<span><a href = "mentionslegales.html">Terms and conditions</a></span>
+			<span>Copyright © pavillonmusicaldavignon.fr - 2015</span>
+			<span><a href = "renseignementAnglais.html">Top of page</a></span>
+		</p>
+	</footer>  
+</html>
