@@ -1,7 +1,7 @@
 # Projet
 Bonjour !
 Je suis Frédéric Nadaradjane et bienvenue sur mon Github !
-Ici vous retrouverez tous mes projets réalisé.
+Ici vous retrouverez tous mes projets réalisés.
 
 * Projet réaliser en HTML5/CSS3 pure ! Pas de Javascript ni de PHP.
 
