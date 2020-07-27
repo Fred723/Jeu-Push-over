@@ -1,2 +1,0 @@
-Main-Class: TestEchecs
-Class-Path: echec.jar
